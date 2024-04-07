@@ -1,0 +1,4 @@
+C:/Users/furka/Desktop/Furkan VEZNEDAR/03-Programming/10-ModalSolver/build/CMakeFiles/ModalSolver.dir
+C:/Users/furka/Desktop/Furkan VEZNEDAR/03-Programming/10-ModalSolver/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/furka/Desktop/Furkan VEZNEDAR/03-Programming/10-ModalSolver/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/furka/Desktop/Furkan VEZNEDAR/03-Programming/10-ModalSolver/build/include/CMakeFiles/core.dir

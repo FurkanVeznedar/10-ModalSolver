@@ -1,0 +1,10 @@
+^C:\USERS\FURKA\DESKTOP\FURKAN VEZNEDAR\03-PROGRAMMING\10-MODALSOLVER\BUILD\CMAKEFILES\EB709FA2471AC59F54A0CC230B76E078\GENERATE.STAMP.RULE
+setlocal
+C:\mingw64\bin\cmake.exe "-SC:/Users/furka/Desktop/Furkan VEZNEDAR/03-Programming/10-ModalSolver" "-BC:/Users/furka/Desktop/Furkan VEZNEDAR/03-Programming/10-ModalSolver/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/furka/Desktop/Furkan VEZNEDAR/03-Programming/10-ModalSolver/build/ModalSolver.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\furka\Desktop\Furkan VEZNEDAR\03-Programming\10-ModalSolver\build\CMakeFiles\eb709fa2471ac59f54a0cc230b76e078\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D7A125E3-2406-39B6-B598-F1CA9B1E69AD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
