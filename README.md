@@ -1,25 +1,25 @@
-# Modal Solver Geliştirme
+# Modal Solver Development
 
-## Proje Adı
-Modal Solver Geliştirme
+## Project Name
+Modal Solver Development
 
-## Teknolojiler
+## Technologies
 - C++
 - OpenGL
-- Eigen Kütüphanesi
+- Eigen Library
 
-## Açıklama
-Bu proje kapsamında, titreşim analizlerinde kullanılmak üzere bir modal solver geliştirdim.
+## Description
+In this project, I developed a modal solver for use in vibration analysis.
 
-## Amaç
-Belirli bir yapı üzerinde titreşim modlarının ve doğal frekansların hesaplanması.
+## Purpose
+To calculate the vibration modes and natural frequencies of a given structure.
 
-## Detaylar
-- **OpenGL** kullanarak grafiksel kullanıcı arayüzü (GUI) ve sonuçların görselleştirilmesi sağlandı.
-- **Eigen** kütüphanesi kullanarak matris işlemleri ve lineer cebir hesaplamaları yapıldı.
-- Çeşitli titreşim modlarının ve doğal frekansların doğru bir şekilde belirlenmesi sağlandı.
+## Details
+- **OpenGL** was used to create a graphical user interface (GUI) and visualize the results.
+- **Eigen** library was utilized for matrix operations and linear algebra computations.
+- Various vibration modes and natural frequencies were accurately determined.
 
-## Sonuçlar
-- Proje sonunda, yapıların titreşim analizlerinin görsel ve sayısal olarak elde edilmesi mümkün hale geldi.
-- Performans optimizasyonları ile hesaplama sürelerinde %X iyileşme sağlandı.
-- Proje, benzer problemler için genel bir çözüm yöntemi olarak kullanılabilir hale getirildi.
+## Results
+- By the end of the project, it became possible to obtain both visual and numerical results for the vibration analysis of structures.
+- Performance optimizations resulted in a %X improvement in computation times.
+- The project can be used as a general solution method for similar problems.
