@@ -8,9 +8,6 @@ Modal Solver Geliştirme
 - OpenGL
 - Eigen Kütüphanesi
 
-## Proje Süresi
-[Başlangıç Tarihi - Bitiş Tarihi]
-
 ## Açıklama
 Bu proje kapsamında, titreşim analizlerinde kullanılmak üzere bir modal solver geliştirdim.
 
